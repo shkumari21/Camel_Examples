@@ -1,5 +1,5 @@
-Chapter 1 - File Copy Example
-=======================
+ File Copy Example
+
 
 This example is copying files from data/inbox to data/outbox directory.
 
