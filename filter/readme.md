@@ -1,4 +1,4 @@
-Chapter 2 - Message Filter Example
+ Message Filter Example
 ==================================
 
 This example shows you how to use a Message Filter from Camel. 
