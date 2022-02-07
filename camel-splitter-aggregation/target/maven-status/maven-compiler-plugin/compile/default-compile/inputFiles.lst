@@ -1,0 +1,6 @@
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/aggregatesplit/DepartmentApp.java
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/aggregatesplit/DepartmentRouter.java
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/domain/Department.java
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/domain/Employee.java
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/aggregatesplit/ProcessEmployees.java
+/home/shkumari/Documents/SBR_Messaging/CAMEL_EXAMPLES/camel-splitter-aggregation/src/main/java/com/javainuse/aggregatesplit/DepartmentEmployeeStrategy.java
