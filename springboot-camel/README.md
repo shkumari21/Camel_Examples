@@ -1,4 +1,4 @@
-Simple program to copy file from one folder to another usng Spring boot and Camel.
+Simple program to copy file from one folder to another using Spring boot and Camel.
 ==================================================================================
 1.mvn clean install
 
